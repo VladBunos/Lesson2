@@ -1,0 +1,157 @@
+body {
+  width: 1402px;
+  height: 587px;
+}
+
+h1 {
+  margin-left: 484px;
+  margin-top: 102px;
+  margin-right: 483px;
+  margin-bottom: 22px;
+  width: 435px;
+  height: 43px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  font-weight: 400;
+  font-size: 36px;
+  text-align: center;
+  color: #212121;
+  font-family: "Raleway", sans-serif;
+}
+
+#OrangeLine {
+  margin-left: 650px;
+  width: 102px;
+  height: 2px;
+  border-top: 2px solid #ff8b38;
+  margin-bottom: 22px;
+}
+
+.GrayTextTop {
+  margin-left: 521px;
+  margin-top: 22px;
+  margin-bottom: 66px;
+  width: 389px;
+  height: 20px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  font-weight: 400;
+  font-size: 14px;
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+}
+
+.GrayTextBottom {
+  font-weight: 400;
+  font-size: 14px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  color: #86878b;
+  font-family: "Raleway", sans-serif;
+}
+.TopBoxProperties1 {
+  margin-left: 145px;
+  margin-right: 33px;
+  margin-bottom: 27px;
+  width: 349px;
+  height: 70px;
+ /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+}
+.TopBoxProperties2 {
+  margin-right: 33px;
+  margin-bottom: 27px;
+  width: 349px;
+  height: 70px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+}
+
+.TopBoxProperties3 {
+  width: 349px;
+  height: 70px;
+  margin-bottom: 27px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+}
+
+.circle {
+  width: 70px;
+  height: 70px;
+  border: 2px solid #ff8b38;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 27px;
+  box-sizing: border-box;
+}
+
+.Picture {
+  display: block;
+  margin-top: 17px;
+  margin-bottom: 27px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.KB {
+  font-family: "Raleway", sans-serif;
+  color: #ff8b38;
+  font-size: 32px;
+  text-align: center;
+  width: 70px;
+  height: 70px;
+  border: 2px solid #ff8b38;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 27px;
+  padding-top: 16px;
+  box-sizing: border-box;
+  /* Рисует оранжевый круг с клавиатурой (юникод) внутри */
+}
+
+.BottomBoxProperties1 {
+  margin-left: 145px;
+  margin-right: 33px;
+  margin-bottom: 111px;
+  width: 349px;
+  height: 102px;
+ /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.BottomBoxProperties2 {
+  margin-right: 33px;
+  margin-bottom: 111px;
+  width: 349px;
+  height: 102px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.BottomBoxProperties3 {
+  margin-right: 33px;
+  margin-bottom: 111px;
+  width: 349px;
+  height: 102px;
+  /* раньше здесь была команда отрисовки границы для визуалиации контента, из-за чего заданы width и height */
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: #333333;
+  margin-top: 0px;
+  margin-bottom: 16px;
+  text-align: center;
+}
